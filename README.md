@@ -11,9 +11,10 @@
 
 ### Languages
 
+![arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frameworks & Libraries
@@ -25,21 +26,25 @@
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ## Projects
 
 ### [Project Name 1](https://github.com/yourusername/projectname1)
 
-- **Description:** 프로젝트 1에 대한 간단한 설명.
-- **Tech Stack:** 사용된 주요 기술들 (예: React, Node.js, MongoDB)
+- **Description:** DVD 대여 관리 프로그램
+- **Tech Stack:** C, visualstudio
 - **Highlights:**
-  - 주요 기능 1
-  - 주요 기능 2
-  - 주요 기능 3
+  ####<User>
+  - Membership management
+  - DVD management
+  - Rental management
+  ####<Manager>
+  - User management
+  - DVD management
 
 ### [Project Name 2](https://github.com/yourusername/projectname2)
 
